@@ -2,7 +2,7 @@
 
 I am a `Software Developer`, currently focused on `Embedded Programming`.
 
-For more details on Projects, Resume, and more go to: [My Site](www.natewake.dev)
+For more details on Projects, Resume, and more, go to [my website](http://www.natewake.dev).
 
 ## Current Project:
 
@@ -29,7 +29,11 @@ This is one of the sensors I manage: a suspension level sensor used to determine
 ## Programming Languages:
 
 Python ----------- 5 Years
+
 C++ -------------- 4 Years
+
 C ----------------- 3 Years
+
 JavaScript ------- 2 Years
+
 SQL -------------- 2 Years
