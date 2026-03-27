@@ -1,10 +1,14 @@
 # Hi, I'm Nate!
 
-I am a `Software Developer`, currently focused on `Embedded Programming`.
+I am a `Software Developer`. Currently I am focused in `embedded programming`, but have experience with web development, automation, application development, as well as UI/UX.
 
 For more details on Projects, Resume, and more, go to [my website](http://www.natewake.dev).
 
-## Current Project:
+## Current Position:
+
+Currently, I am `IT Director` and `Software Developer` for Sowing Seeds Health. I am responsible for keeping system security up to date, as well as developing and maintaining internal software to help streamline business processes.
+
+## Previous Project:
 
 I am the `Data Acquisitions' Subsystem Lead` of CSULB's `SAE Baja Team`. I am responsible for:
 
